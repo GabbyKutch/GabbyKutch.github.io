@@ -79,6 +79,7 @@ nav{
 }
 p{
     font-family: roboto, Arial, sans-serif;
+    line-height: 1.5rem;
 }
 
 h1, h2, h3, h4 {
@@ -120,9 +121,20 @@ article button {
     background-color: #b33c21;
     box-shadow: 5px 5px 4px -1px #888;
 }
-
+time{
+    font-family: roboto;
+    margin: 1rem;
+}
 .expand{
     font-size: 0.5rem;
+}
+
+footer{
+    font-family: roboto;
+}
+
+.attribute{
+    text-align: right;
 }
 
 /* GENERAL SET UP AND DEFAULTS */
